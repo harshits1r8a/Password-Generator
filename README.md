@@ -63,3 +63,5 @@ If you would like to contribute to the project, feel free to fork the repository
 This project was created as part of a learning React front-end JavaScript library from Chai or Code YouTube channel.
 
 ## Screenshots
+![Screenshot 2023-11-22 090451](https://github.com/harshits1r8a/Password-Generator/assets/91357996/4fae8f2d-caf8-49c0-afb7-0a2d3f4cc1ac)
+
